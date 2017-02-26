@@ -1,0 +1,38 @@
+.text-center{
+	text-align: center;
+
+}
+.btn{
+	border-radius: 30px;
+}
+.bg-image{
+	background-size: cover;
+	padding-top: 160px;
+	padding-bottom: 200px;
+	background-image: url('http://www.ifxsoccer.com/wp-content/uploads/2013/01/Emirates-Stadium-7-15FFF15.jpg');
+}
+.main-text{
+	font-size: 70px;
+}
+.form-control{
+	width: 200px;
+	height:40px;
+	padding-top: 10px;
+}
+.margin-top{
+	margin-top: 10px:;
+}
+.margin-bottom{
+	margin-bottom: 0px;
+}
+.logo{
+	float: right;
+	float: top;
+	margin-top: 0px
+}
+.player-pic{
+	border-radius: 30px;
+}
+h2.players{
+	text-align: center;
+}
